@@ -4,4 +4,4 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Проекты
 
-* [Проект 0. Угадай число](https://github.com/eugenehr/sf-data-science/project-0)
+* [Проект 0. Угадай число](https://github.com/eugenehr/sf-data-science/tree/main/project-0)
