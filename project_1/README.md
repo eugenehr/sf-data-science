@@ -16,9 +16,9 @@
 
 ### Краткая информация о данных
 
- 1. (Данные с сайта HeadHunter в формате CSV)[https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing] 
+ 1. [Данные с сайта HeadHunter в формате CSV](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing).
     Файл необходимо скачать и сохранить в папку **data** проекта.
- 2. (Данные курсов валют в формате CSV)[https://lms.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/ExchangeRates.zip]
+ 2. [Данные курсов валют в формате CSV](https://lms.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/ExchangeRates.zip).
     Файл необходимо скачать, распаковать и сохранить в папку **data** проекта.
 
 
